@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on IIGB Bioinformatics Core @ UCR</title>
+    <link>https://devcows.github.io/hugo-universal-theme/tags/</link>
+    <description>Recent content in Tags on IIGB Bioinformatics Core @ UCR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://devcows.github.io/hugo-universal-theme/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://devcows.github.io/hugo-universal-theme/tags/test/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bioinfocore</title>
+      <link>https://devcows.github.io/hugo-universal-theme/tags/bioinfocore/</link>
+      <pubDate>Wed, 06 Apr 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/tags/bioinfocore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>covid19</title>
+      <link>https://devcows.github.io/hugo-universal-theme/tags/covid19/</link>
+      <pubDate>Wed, 06 Apr 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/tags/covid19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genomics core</title>
+      <link>https://devcows.github.io/hugo-universal-theme/tags/genomics-core/</link>
+      <pubDate>Wed, 06 Apr 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/tags/genomics-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scRNA-seq</title>
+      <link>https://devcows.github.io/hugo-universal-theme/tags/scrna-seq/</link>
+      <pubDate>Thu, 24 Feb 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/tags/scrna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seminars</title>
+      <link>https://devcows.github.io/hugo-universal-theme/tags/seminars/</link>
+      <pubDate>Thu, 24 Feb 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/tags/seminars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>single-cell</title>
+      <link>https://devcows.github.io/hugo-universal-theme/tags/single-cell/</link>
+      <pubDate>Thu, 24 Feb 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/tags/single-cell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IIGB Core</title>
+      <link>https://devcows.github.io/hugo-universal-theme/tags/iigb-core/</link>
+      <pubDate>Fri, 12 Nov 2021 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/tags/iigb-core/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshops</title>
+      <link>https://devcows.github.io/hugo-universal-theme/tags/workshops/</link>
+      <pubDate>Tue, 07 Sep 2021 10:00:00 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/tags/workshops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

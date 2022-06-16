@@ -1,0 +1,5 @@
+weight: 1
+name: "Services & Rates"
+icon: "fas fa-info-circle"
+url: "/hugo-universal-theme/about/services/"
+description: "Check out the services that the core provides"

@@ -5,6 +5,6 @@ title: Contact
 
 # We are here to help you
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+Have a new project and would like to plan out the experiments and downstream analyses? Generated new data but don't know what to do with them? Stuck in your analysis and need another opinion? Contact the Bioinformatics Core for free consultation on experimental design and analyses. Drop by the office during office hours to get help with specific programming needs.
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+Please feel free to contact us and we will respond promptly within 24-48 hours.

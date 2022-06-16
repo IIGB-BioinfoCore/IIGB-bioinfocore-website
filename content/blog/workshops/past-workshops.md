@@ -1,0 +1,20 @@
++++
+title = "Past Workshops"
+date = "2021-09-07T10:00:00+02:00"
+tags = ["workshops"]
+categories = ["workshops"]
+description = "This is a listing of past workshops provided by the Core"
+banner = "img/banners/banner-4.jpg"
+authors = ["Brandon Le"]
++++
+
+A listing of past workshops held by the Bioinformatics Core
+
+| Date           	| Time               	| Location                                	| Instructor     	| Affiliation 	| Description                                                                                                                                                                                                                                                                                                           	| Material 	|
+|----------------	|--------------------	|-----------------------------------------	|----------------	|-------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|----------	|
+| Oct. 12, 2017  	| 9:00 AM - 10:30AM  	| University Laboratory Building          	| Neerja Katiyar 	| UCR         	| Module 1: (Overview and pre-processing of NGS data) Introduction to Sequencing technologies - Sanger, Illumina, PacBio Demultiplexing raw data Understanding quality scores of FASTQ files Quality control (FASTQC) How to check for contamination in your data?                                                      	| Slides   	|
+| Oct. 12, 2017  	| 10:30 AM - 12:30PM 	| University Laboratory Building          	| Neerja Katiyar 	| UCR         	| Module 2: (Hands-on training for pre-processing NGS data) Introduction to basic linux commands and cluster (module load feature etc.) Download sample datasets (FASTQ files, FASTA) Run FASTQC Remove adapters (cutadapt, Trim Galore, FASTX toolkit) Check for contamination (Align against nr database using BLAST) 	| Slides   	|
+| Sept 22, 2017  	| 9:00 AM- 12:00 PM  	| University Laboratory Building          	| Neerja Katiyar 	| UCR         	| Modern R graphics with ggplot2 - Histograms, barplots, Heatmaps, qplots, Introduction to Shiny apps.                                                                                                                                                                                                                  	| Manual   	|
+| Sept 8, 2017   	| 9:00 AM- 12:00 PM  	| University Laboratory Building          	| Neerja Katiyar 	| UCR         	| Programming with R - Rstudio environment, Loops, graphics, Exercises.                                                                                                                                                                                                                                                 	| Manual   	|
+| August 4, 2017 	| 10:00 - 12:00pm    	| University Laboratory Building Room 104 	| Neerja Katiyar 	| UCR         	| Introduction to R Description - (1) Introduction to BigData (2) Rstudio environment (3) Data types, subsetting and filtering (4) Reading and writing a file in R (5) R graphics                                                                                                                                       	| Slides   	|
+| June 23, 2017  	| 9:00 - 12:00pm     	| University Laboratory Building Room 104 	| Neerja Katiyar 	| UCR         	| Introduction to R Description - (1) R basics (2) Working with Rstudio environment (3) R graphics (4) Introduction to Bioconductor (5) Q & A (6) Discussion (Future workshop suggestions)                                                                                                                              	|          	|

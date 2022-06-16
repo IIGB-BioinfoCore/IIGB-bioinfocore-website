@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on IIGB Bioinformatics Core @ UCR</title>
+    <link>https://devcows.github.io/hugo-universal-theme/categories/</link>
+    <description>Recent content in Categories on IIGB Bioinformatics Core @ UCR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://devcows.github.io/hugo-universal-theme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>manuals</title>
+      <link>https://devcows.github.io/hugo-universal-theme/categories/manuals/</link>
+      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/categories/manuals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>news-articles</title>
+      <link>https://devcows.github.io/hugo-universal-theme/categories/news-articles/</link>
+      <pubDate>Wed, 06 Apr 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/categories/news-articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>seminars</title>
+      <link>https://devcows.github.io/hugo-universal-theme/categories/seminars/</link>
+      <pubDate>Thu, 24 Feb 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/categories/seminars/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workshops</title>
+      <link>https://devcows.github.io/hugo-universal-theme/categories/workshops/</link>
+      <pubDate>Tue, 07 Sep 2021 10:00:00 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/categories/workshops/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

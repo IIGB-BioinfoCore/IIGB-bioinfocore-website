@@ -1,0 +1,5 @@
+weight: 4
+name: "Manual & Resources"
+icon: "fas fa-book"
+url: "/hugo-universal-theme/categories/manuals/"
+description: "Collection of bioinformatics manuals and resources"

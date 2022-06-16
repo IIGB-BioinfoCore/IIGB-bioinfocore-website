@@ -1,0 +1,5 @@
+weight: 2
+name: "News"
+icon: "fas fa-globe"
+url: "/hugo-universal-theme/blog/"
+description: "Learn about recent news/updates on the Core"

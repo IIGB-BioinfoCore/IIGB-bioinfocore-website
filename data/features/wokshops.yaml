@@ -1,0 +1,5 @@
+weight: 3
+name: "Workshops"
+icon: "fas fa-cogs"
+url: "/hugo-universal-theme/categories/workshops/"
+description: "Check out upcoming and past workshops held by the core"

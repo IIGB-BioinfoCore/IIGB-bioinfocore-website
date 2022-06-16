@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>genomics core on IIGB Bioinformatics Core @ UCR</title>
+    <link>https://devcows.github.io/hugo-universal-theme/tags/genomics-core/</link>
+    <description>Recent content in genomics core on IIGB Bioinformatics Core @ UCR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Apr 2022 10:00:20 +0200</lastBuildDate><atom:link href="https://devcows.github.io/hugo-universal-theme/tags/genomics-core/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UCR Genomics Core assists state with COVID variant tracking</title>
+      <link>https://devcows.github.io/hugo-universal-theme/blog/2022/04/06/ucr-article-covid/</link>
+      <pubDate>Wed, 06 Apr 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://devcows.github.io/hugo-universal-theme/blog/2022/04/06/ucr-article-covid/</guid>
+      <description>UCR published an article by Jules Bernstein on April 6, 2022 titled &amp;ldquo;UCR Genomics Core assists state with COVID variant tracking.&amp;rdquo;
+The article highlights work by the IIGB Genomics and Bioinformatics Cores in sequencing and processing COVID-19 samples at UC Riverside in collaboration with the California Department of Public Health (CDPH) to help prepare the state for potential surges by new variants of the disease.
+Check out the original article here</description>
+    </item>
+    
+  </channel>
+</rss>
