@@ -2,91 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/manuals/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/post/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/post/test/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/test/</loc>
-    <lastmod>2022-06-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/authors/</loc>
+    <loc>https://iigb-bioinfocore.github.io/authors/</loc>
     <lastmod>2022-04-06T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/bioinfocore/</loc>
+    <loc>https://iigb-bioinfocore.github.io/tags/bioinfocore/</loc>
     <lastmod>2022-04-06T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/</loc>
+    <loc>https://iigb-bioinfocore.github.io/blog/</loc>
     <lastmod>2022-04-06T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/authors/brandon-le/</loc>
+    <loc>https://iigb-bioinfocore.github.io/authors/brandon-le/</loc>
     <lastmod>2022-04-06T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/covid19/</loc>
+    <loc>https://iigb-bioinfocore.github.io/categories/</loc>
     <lastmod>2022-04-06T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/genomics-core/</loc>
+    <loc>https://iigb-bioinfocore.github.io/tags/covid19/</loc>
     <lastmod>2022-04-06T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/news-articles/</loc>
+    <loc>https://iigb-bioinfocore.github.io/tags/genomics-core/</loc>
     <lastmod>2022-04-06T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2022/04/06/ucr-article-covid/</loc>
+    <loc>https://iigb-bioinfocore.github.io/</loc>
     <lastmod>2022-04-06T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2022/02/24/parse-biosci-seminar/</loc>
+    <loc>https://iigb-bioinfocore.github.io/categories/news-articles/</loc>
+    <lastmod>2022-04-06T10:00:20+02:00</lastmod>
+  </url><url>
+    <loc>https://iigb-bioinfocore.github.io/tags/</loc>
+    <lastmod>2022-04-06T10:00:20+02:00</lastmod>
+  </url><url>
+    <loc>https://iigb-bioinfocore.github.io/blog/2022/04/06/ucr-article-covid/</loc>
+    <lastmod>2022-04-06T10:00:20+02:00</lastmod>
+  </url><url>
+    <loc>https://iigb-bioinfocore.github.io/blog/2022/02/24/parse-biosci-seminar/</loc>
     <lastmod>2022-02-24T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/scrna-seq/</loc>
+    <loc>https://iigb-bioinfocore.github.io/tags/scrna-seq/</loc>
     <lastmod>2022-02-24T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/seminars/</loc>
+    <loc>https://iigb-bioinfocore.github.io/tags/seminars/</loc>
     <lastmod>2022-02-24T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/seminars/</loc>
+    <loc>https://iigb-bioinfocore.github.io/categories/seminars/</loc>
     <lastmod>2022-02-24T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/single-cell/</loc>
+    <loc>https://iigb-bioinfocore.github.io/tags/single-cell/</loc>
     <lastmod>2022-02-24T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/iigb-core/</loc>
+    <loc>https://iigb-bioinfocore.github.io/tags/iigb-core/</loc>
     <lastmod>2021-11-12T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2021/11/12/what-can-the-core-do-for-you/</loc>
+    <loc>https://iigb-bioinfocore.github.io/blog/2021/11/12/what-can-the-core-do-for-you/</loc>
     <lastmod>2021-11-12T10:00:20+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/blog/2021/09/07/past-workshops/</loc>
+    <loc>https://iigb-bioinfocore.github.io/blog/2021/09/07/past-workshops/</loc>
     <lastmod>2021-09-07T10:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/tags/workshops/</loc>
+    <loc>https://iigb-bioinfocore.github.io/tags/workshops/</loc>
     <lastmod>2021-09-07T10:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/categories/workshops/</loc>
+    <loc>https://iigb-bioinfocore.github.io/categories/workshops/</loc>
     <lastmod>2021-09-07T10:00:00+02:00</lastmod>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/about/</loc>
+    <loc>https://iigb-bioinfocore.github.io/about/</loc>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/contact/</loc>
+    <loc>https://iigb-bioinfocore.github.io/contact/</loc>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/faq/</loc>
+    <loc>https://iigb-bioinfocore.github.io/faq/</loc>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/about/mission/</loc>
+    <loc>https://iigb-bioinfocore.github.io/about/mission/</loc>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/about/people/</loc>
+    <loc>https://iigb-bioinfocore.github.io/about/people/</loc>
   </url><url>
-    <loc>https://devcows.github.io/hugo-universal-theme/about/services/</loc>
+    <loc>https://iigb-bioinfocore.github.io/about/services/</loc>
   </url>
 </urlset>

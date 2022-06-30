@@ -2,89 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on IIGB Bioinformatics Core @ UCR</title>
-    <link>https://devcows.github.io/hugo-universal-theme/tags/</link>
+    <link>https://iigb-bioinfocore.github.io/tags/</link>
     <description>Recent content in Tags on IIGB Bioinformatics Core @ UCR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://devcows.github.io/hugo-universal-theme/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/test/</link>
-      <pubDate>Wed, 15 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/test/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 06 Apr 2022 10:00:20 +0200</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>bioinfocore</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/bioinfocore/</link>
+      <link>https://iigb-bioinfocore.github.io/tags/bioinfocore/</link>
       <pubDate>Wed, 06 Apr 2022 10:00:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/bioinfocore/</guid>
+      <guid>https://iigb-bioinfocore.github.io/tags/bioinfocore/</guid>
       <description></description>
     </item>
     
     <item>
       <title>covid19</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/covid19/</link>
+      <link>https://iigb-bioinfocore.github.io/tags/covid19/</link>
       <pubDate>Wed, 06 Apr 2022 10:00:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/covid19/</guid>
+      <guid>https://iigb-bioinfocore.github.io/tags/covid19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>genomics core</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/genomics-core/</link>
+      <link>https://iigb-bioinfocore.github.io/tags/genomics-core/</link>
       <pubDate>Wed, 06 Apr 2022 10:00:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/genomics-core/</guid>
+      <guid>https://iigb-bioinfocore.github.io/tags/genomics-core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scRNA-seq</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/scrna-seq/</link>
+      <link>https://iigb-bioinfocore.github.io/tags/scrna-seq/</link>
       <pubDate>Thu, 24 Feb 2022 10:00:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/scrna-seq/</guid>
+      <guid>https://iigb-bioinfocore.github.io/tags/scrna-seq/</guid>
       <description></description>
     </item>
     
     <item>
       <title>seminars</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/seminars/</link>
+      <link>https://iigb-bioinfocore.github.io/tags/seminars/</link>
       <pubDate>Thu, 24 Feb 2022 10:00:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/seminars/</guid>
+      <guid>https://iigb-bioinfocore.github.io/tags/seminars/</guid>
       <description></description>
     </item>
     
     <item>
       <title>single-cell</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/single-cell/</link>
+      <link>https://iigb-bioinfocore.github.io/tags/single-cell/</link>
       <pubDate>Thu, 24 Feb 2022 10:00:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/single-cell/</guid>
+      <guid>https://iigb-bioinfocore.github.io/tags/single-cell/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IIGB Core</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/iigb-core/</link>
+      <link>https://iigb-bioinfocore.github.io/tags/iigb-core/</link>
       <pubDate>Fri, 12 Nov 2021 10:00:20 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/iigb-core/</guid>
+      <guid>https://iigb-bioinfocore.github.io/tags/iigb-core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>workshops</title>
-      <link>https://devcows.github.io/hugo-universal-theme/tags/workshops/</link>
+      <link>https://iigb-bioinfocore.github.io/tags/workshops/</link>
       <pubDate>Tue, 07 Sep 2021 10:00:00 +0200</pubDate>
       
-      <guid>https://devcows.github.io/hugo-universal-theme/tags/workshops/</guid>
+      <guid>https://iigb-bioinfocore.github.io/tags/workshops/</guid>
       <description></description>
     </item>
     
