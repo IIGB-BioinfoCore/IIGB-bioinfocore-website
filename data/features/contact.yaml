@@ -1,5 +1,5 @@
 weight: 5
 name: "Contact"
 icon: "far fa-envelope"
-url: "/hugo-universal-theme/contact/"
+url: "/contact/"
 description: "Contact us for a free consultation about your next data analysis project"

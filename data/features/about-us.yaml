@@ -1,5 +1,5 @@
 weight: 6
 name: "About Us"
 icon: "fas fa-user"
-url: "/hugo-universal-theme/about/people/"
+url: "/about/people/"
 description: "Learn about the people behind the core"

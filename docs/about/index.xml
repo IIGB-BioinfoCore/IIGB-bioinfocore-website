@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on IIGB Bioinformatics Core @ UCR</title>
+    <link>https://iigb-bioinfocore.github.io/about/</link>
+    <description>Recent content in About on IIGB Bioinformatics Core @ UCR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://iigb-bioinfocore.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mission</title>
+      <link>https://iigb-bioinfocore.github.io/about/mission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/about/mission/</guid>
+      <description>Core Mission Welcome to the Bioinformatics Core Facility at UC Riverside. Our facility is part of the Institute for Integrative Genome Biology (IIGB) that operates a modern biotechnology hub consisting of core facilities for genomics, bioinformatics, proteomics, and metabolomics. The bioinformatics facility provides convenient access to the NGS data sequenced at UCR, data analysis, and programming expertise. The resources serve scientists at UC Riverside to master the informatics needs of their research in a proficient and cost-effective manner.</description>
+    </item>
+    
+    <item>
+      <title>Personnel</title>
+      <link>https://iigb-bioinfocore.github.io/about/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/about/people/</guid>
+      <description>Current People   Name Title CV Email     Brandon Le Bioinformatics Coordinator CV Email     I have 20+ years of experience in genomics and working with large scale (big data) genomic datasets (see publications from my CV for examples.)
+  I also have 15+ years of experience in bioinformatics data analysis and 5+ years experience as a system administrator, maintaining a Linux server and network attached storage (NAS).</description>
+    </item>
+    
+    <item>
+      <title>Rates &amp; Services</title>
+      <link>https://iigb-bioinfocore.github.io/about/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/about/services/</guid>
+      <description>Services Every project is unique and requires specific workflows. Please contact the core if there are specific workflows or analysis (not listed) that you have in mind.
+The bioinformatics core have expertise in the area of:
+Genomics and Transcriptomics
+ RNA-seq small RNA-seq, microRNA-seq Ribo-seq  Epigenomics
+ ChIP-seq (Transcription factors, histones) Methyl-seq, BS-seq ATAC-seq  The core also have experiences with:
+ Variant-seq Metagenomics (16S, ITS, metagenomes)  Workflows currently being developed:</description>
+    </item>
+    
+  </channel>
+</rss>

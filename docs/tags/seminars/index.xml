@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seminars on IIGB Bioinformatics Core @ UCR</title>
+    <link>https://iigb-bioinfocore.github.io/tags/seminars/</link>
+    <description>Recent content in seminars on IIGB Bioinformatics Core @ UCR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Feb 2022 10:00:20 +0200</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/tags/seminars/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Parse Biosciences Seminar</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2022/02/24/parse-biosci-seminar/</link>
+      <pubDate>Thu, 24 Feb 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2022/02/24/parse-biosci-seminar/</guid>
+      <description>UCR Institute for Integrative Genome Biology hosts a seminar by Parse Biosciences titled &amp;ldquo;Single Cell 3.0 - The Next Evolution of Single Cell Genomics&amp;rdquo;.
+Scalable single-cell RNA sequencing (scRNA-seq) up to 1 MILLION cells is readily available with the Evercode technology. The core of this approach, split-pool combinatorial barcoding, was originally demonstrated in a 2018 Science paper with SPLiT-seq and substantially improved for wide-scale adoption.
+Our speakers will describe the Evercode technology, its implication on single-cell experiments, and the drastic improvements achieved since the original publication.</description>
+    </item>
+    
+  </channel>
+</rss>
