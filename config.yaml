@@ -1,4 +1,4 @@
-baseurl: https://iigb-bioinfocore.github.io
+baseurl: https://iigb-bioinfocore.github.io/public
 title: IIGB Bioinformatics Core @ UCR
 theme: hugo-universal-theme
 languageCode: en-us
@@ -200,8 +200,8 @@ params:
     search: yes
     tags: yes
 permalinks:
-  blog: /blog/:year/:month/:day/:filename/
-  manual: /manual/:year/:month/:day/:filename/
+  blog: /blog/:year/:month/:day/:slug/
+  manual: /manual/:year/:month/:day/:slug/
 taxonomies:
   author: authors
   category: categories
