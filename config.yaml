@@ -1,4 +1,4 @@
-baseurl: https://iigb-bioinfocore.github.io/
+baseurl: "https://iigb-bioinfocore.github.io/""
 title: IIGB Bioinformatics Core @ UCR
 theme: hugo-universal-theme
 languageCode: en-us
