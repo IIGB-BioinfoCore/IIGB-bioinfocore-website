@@ -1,4 +1,4 @@
-baseurl: "https://iigb-bioinfocore.github.io/""
+baseurl: https://iigb-bioinfocore.github.io/
 title: IIGB Bioinformatics Core @ UCR
 theme: hugo-universal-theme
 languageCode: en-us
@@ -8,6 +8,7 @@ googleAnalytics: ''
 summaryLength: 70
 paginate: 10
 pluralizelisttitles: no
+publishDir: ../iigb-bioinfocore.github.io/
 menu:
   main:
     - identifier: menu.about
@@ -211,3 +212,4 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
