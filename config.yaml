@@ -8,7 +8,7 @@ googleAnalytics: ''
 summaryLength: 70
 paginate: 10
 pluralizelisttitles: no
-publishDir: ../iigb-bioinfocore.github.io/
+publishDir: docs/
 menu:
   main:
     - identifier: menu.about

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brandon Le on IIGB Bioinformatics Core @ UCR</title>
+    <link>https://iigb-bioinfocore.github.io/authors/brandon-le/</link>
+    <description>Recent content in Brandon Le on IIGB Bioinformatics Core @ UCR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Apr 2022 10:00:20 +0200</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/authors/brandon-le/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UCR Genomics Core assists state with COVID variant tracking</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2022/04/06/ucr-genomics-core-assists-state-with-covid-variant-tracking/</link>
+      <pubDate>Wed, 06 Apr 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2022/04/06/ucr-genomics-core-assists-state-with-covid-variant-tracking/</guid>
+      <description>UCR published an article by Jules Bernstein on April 6, 2022 titled &amp;ldquo;UCR Genomics Core assists state with COVID variant tracking.&amp;rdquo;
+The article highlights work by the IIGB Genomics and Bioinformatics Cores in sequencing and processing COVID-19 samples at UC Riverside in collaboration with the California Department of Public Health (CDPH) to help prepare the state for potential surges by new variants of the disease.
+Check out the original article here</description>
+    </item>
+    
+    <item>
+      <title>Parse Biosciences Seminar</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2022/02/24/parse-biosciences-seminar/</link>
+      <pubDate>Thu, 24 Feb 2022 10:00:20 +0200</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2022/02/24/parse-biosciences-seminar/</guid>
+      <description>UCR Institute for Integrative Genome Biology hosts a seminar by Parse Biosciences titled &amp;ldquo;Single Cell 3.0 - The Next Evolution of Single Cell Genomics&amp;rdquo;.
+Scalable single-cell RNA sequencing (scRNA-seq) up to 1 MILLION cells is readily available with the Evercode technology. The core of this approach, split-pool combinatorial barcoding, was originally demonstrated in a 2018 Science paper with SPLiT-seq and substantially improved for wide-scale adoption.
+Our speakers will describe the Evercode technology, its implication on single-cell experiments, and the drastic improvements achieved since the original publication.</description>
+    </item>
+    
+    <item>
+      <title>IIGB Seminar</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2021/11/12/iigb-seminar/</link>
+      <pubDate>Fri, 12 Nov 2021 10:00:20 +0200</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2021/11/12/iigb-seminar/</guid>
+      <description>UCR Institute for Integrative Genome Biology hosted a seminar titled &amp;ldquo;What Can the IIGB Cores Do For You?&amp;rdquo;.
+This seminar was presented by Coordinators and staff members in three major cores, discussing services and personnel that are provided to the UCR community:
+ Genomics Core Metabolomics Core Bioinformatics Core  Presentation slides for the Bioinformatics Core can be accessed here:
+Bioinformatics Core</description>
+    </item>
+    
+    <item>
+      <title>Past Workshops</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2021/09/07/past-workshops/</link>
+      <pubDate>Tue, 07 Sep 2021 10:00:00 +0200</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2021/09/07/past-workshops/</guid>
+      <description>A listing of past workshops held by the Bioinformatics Core
+   Date Time Location Instructor Affiliation Description Material     Oct. 12, 2017 9:00 AM - 10:30AM University Laboratory Building Neerja Katiyar UCR Module 1: (Overview and pre-processing of NGS data) Introduction to Sequencing technologies - Sanger, Illumina, PacBio Demultiplexing raw data Understanding quality scores of FASTQ files Quality control (FASTQC) How to check for contamination in your data?</description>
+    </item>
+    
+  </channel>
+</rss>
