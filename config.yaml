@@ -153,7 +153,7 @@ params:
     - go
   disabled_logo: yes
   dropdown_mouse_over: no
-  enableGoogleMaps: yes
+  enableGoogleMaps: no
   enableRecaptchaInContactForm: no
   facebook_site: ''
   features:
