@@ -163,7 +163,7 @@ params:
     recent_posts:
       enable: yes
   formspree_action: https://formspree.io/f/mjvlqeyr
-  googleMapsApiKey: AIzaSyA38RecqNFjF-gFCABDi682hsI6aDE2V-Q
+  googleMapsApiKey: 
   googleRecaptchaKey: site_key_for_google_recaptcha
   latitude: '33.971405'
   logo: img/logo.png
