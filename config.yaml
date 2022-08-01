@@ -104,7 +104,7 @@ menu:
     #   weight: 3
     - name: Twitter
       pre: <i class='fab fa-2x fa-twitter'></i>
-      url: http://twitter.com/bioinformatics
+      url: http://twitter.com/ucr_bioinfocore
       weight: 4
     - name: Email
       pre: <i class='fas fa-2x fa-envelope'></i>
