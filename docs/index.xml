@@ -6,7 +6,29 @@
     <description>Recent content on IIGB Bioinformatics Core @ UCR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 10:00:20 +0200</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop - Intro to Unix</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2022/10/12/bioinformatics-workshop-intro-to-unix/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2022/10/12/bioinformatics-workshop-intro-to-unix/</guid>
+      <description>The Bioinformatics Core will hold the first workshop of the Fall Quarter.
+This workshop will provide an introduction to the shell and command line interface. This workshop is intended for all users with no prior experience required. Topics covered in this workshop includes:
+ Understanding the command line interface structure Common useful commands (e.g., ls, pwd, cd) Navigation using the command line Creating and removing files/folders Linking commands Advance commands  General Information  Workshop: Intro to Unix</description>
+    </item>
+    
+    <item>
+      <title>Single Cell Core Grant Program</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2022/09/22/single-cell-grant-program/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2022/09/22/single-cell-grant-program/</guid>
+      <description>Info An informational hybrid in-person/webinar on a single cell core grant program hosted by the IIGB Genomics and Bioinformatics Cores, Parse Biosciences, and Illumina.
+The session provides information on the split-pool combinatorial barcoding technology developed at Parse Biosciences and a grant program involving the IIGB cores, Parse Biosciences, and Illumina. Here short talks by:
+ Wei Zhang (Genomics Coordinator) Brandon Le (Bioinformatics Coordinator) Bo Liu (Executive Sales Specialist, Illumina) John Walsh (VP Marketing, Parse Biosciences) Samantha O&amp;rsquo;Neill (Technical Sales Manager, Parse Biosciences)  Come learn more about how to apply for the award.</description>
+    </item>
+    
     <item>
       <title>UCR Genomics Core assists state with COVID variant tracking</title>
       <link>https://iigb-bioinfocore.github.io/blog/2022/04/06/ucr-genomics-core-assists-state-with-covid-variant-tracking/</link>

@@ -13,4 +13,4 @@ Scalable single-cell RNA sequencing (scRNA-seq) up to 1 MILLION cells is readily
 
 Our speakers will describe the Evercode technology, its implication on single-cell experiments, and the drastic improvements achieved since the original publication.
 
-To access the recording of the seminar, please follow the link below to briefly fill out a simple form. The video recording will play immediately form submission: [parse-bio-seminar](https://resources.parsebiosciences.com/ucr-single-cell-research-seminar-on-demand)
+To access the recording of the seminar, please follow the link below to briefly fill out a simple form. The video recording will play immediately after form submission: [parse-bio-seminar](https://resources.parsebiosciences.com/ucr-single-cell-research-seminar-on-demand)
