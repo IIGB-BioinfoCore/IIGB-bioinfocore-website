@@ -6,7 +6,18 @@
     <description>Recent content in workshops on IIGB Bioinformatics Core @ UCR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/categories/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/categories/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop - Intro to Shell Scripting</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2022/11/10/workshop-intro-to-shell-scripting/</link>
+      <pubDate>Thu, 10 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2022/11/10/workshop-intro-to-shell-scripting/</guid>
+      <description>The Bioinformatics Core is hosting a follow up introduction workshop on shell scripting.
+This workshop will provide an introduction to shell scripting. This workshop is intended for beginner users with some familiarity with the command line interface. Topics covered in this workshop includes:
+ Understanding the basic structure of a shell script Creating variables Creating IF-ELSE statements Creating FOR LOOP statements Passing arguments into a script  General Information  Workshop: Intro to Shell Scripting</description>
+    </item>
+    
     <item>
       <title>Workshop - Intro to Unix</title>
       <link>https://iigb-bioinfocore.github.io/blog/2022/10/12/bioinformatics-workshop-intro-to-unix/</link>
