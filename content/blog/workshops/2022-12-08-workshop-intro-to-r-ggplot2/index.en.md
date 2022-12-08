@@ -1,39 +1,37 @@
 ---
-title: Workshop - Intro to Shell Scripting
+title: Workshop - Intro to R & ggplot2
 author: Brandon Le
-date: '2022-11-10'
-slug: workshop-intro-to-shell-scripting
-categories:
+date: '2022-12-08'
+slug: workshop-intro-to-r-ggplot2
+categories: 
   - workshops
-tags:
+tags: 
   - workshops
-banner: "img/banners/Workshop-II-Flyer-Intro-to-Scripting.jpg"
+banner: "img/banners/Workshop-III-Flyer-Intro-to-R-ggplot2.jpg"
 ---
 
+![Intro-to-R](images/Workshop-III-Flyer-Intro-to-R-ggplot2.jpg)
 
-![Intro-to-scripting](images/Workshop-II-Flyer-Intro-to-Scripting.jpg)
+The Bioinformatics Core is hosting an introductory workshop on R and data visualization with ggplot2. 
 
-The Bioinformatics Core is hosting a follow up introduction workshop on shell scripting. 
+This workshop will provide an introduction to R, RStudio and data visualization using ggplot2. This workshop is intended for beginner users with some or no familiarity with R. Topics covered in this workshop includes:
 
-This workshop will provide an introduction to shell scripting. This workshop is intended for beginner users with some familiarity with the command line interface. Topics covered in this workshop includes:
-
-  - Understanding the basic structure of a shell script
-  - Creating variables
-  - Creating IF-ELSE statements 
-  - Creating FOR LOOP statements
-  - Passing arguments into a script
+  - R and RStudio interface
+  - R Syntax
+  - Visualization using ggplot2 
+  - Visualization with esquisseR
 
 ### General Information
 
-> Workshop: Intro to Shell Scripting  
-> Date: November 17, 2022  
+> Workshop: Intro to R & ggplot2
+> Date: December 15, 2022  
 > Time: 1PM - 3PM  
-> Location: Genomics Auditorium 1102A  
+> Location: 104 Campbell Hall (HHMI Bioinformatics Laboratory)
 > Format: In-Person
 
 ### Registration
 
-> Register for the workshop at: **https://bit.ly/3NYBw7T**
+> Register for the workshop at: **https://bit.ly/3h8bMtK**
 
 ### Requirements
 

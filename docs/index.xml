@@ -6,7 +6,18 @@
     <description>Recent content on IIGB Bioinformatics Core @ UCR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 10 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workshop - Intro to R &amp; ggplot2</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2022/12/08/workshop-intro-to-r-ggplot2/</link>
+      <pubDate>Thu, 08 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2022/12/08/workshop-intro-to-r-ggplot2/</guid>
+      <description>The Bioinformatics Core is hosting an introductory workshop on R and data visualization with ggplot2.
+This workshop will provide an introduction to R, RStudio and data visualization using ggplot2. This workshop is intended for beginner users with some or no familiarity with R. Topics covered in this workshop includes:
+ R and RStudio interface R Syntax Visualization using ggplot2 Visualization with esquisseR  General Information  Workshop: Intro to R &amp;amp; ggplot2 Date: December 15, 2022</description>
+    </item>
+    
     <item>
       <title>Workshop - Intro to Shell Scripting</title>
       <link>https://iigb-bioinfocore.github.io/blog/2022/11/10/workshop-intro-to-shell-scripting/</link>
