@@ -26,7 +26,7 @@ This workshop will provide an introduction to R, RStudio and data visualization 
 > Workshop: Intro to R & ggplot2
 > Date: December 15, 2022  
 > Time: 1PM - 3PM  
-> Location: 104 Campbell Hall (HHMI Bioinformatics Laboratory)
+> Location: 104 Campbell Hall (HHMI Bioinformatics Laboratory)  
 > Format: In-Person
 
 ### Registration

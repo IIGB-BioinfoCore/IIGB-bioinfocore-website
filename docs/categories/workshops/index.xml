@@ -6,7 +6,21 @@
     <description>Recent content in workshops on IIGB Bioinformatics Core @ UCR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/categories/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://iigb-bioinfocore.github.io/categories/workshops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RNA-Seq Data Analysis Workshop</title>
+      <link>https://iigb-bioinfocore.github.io/blog/2023/10/18/rna-seq-data-analysis-workshop/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://iigb-bioinfocore.github.io/blog/2023/10/18/rna-seq-data-analysis-workshop/</guid>
+      <description>The Bioinformatics Core is hosting a two-day workshop on RNA-Seq data analysis.
+This two-day workshop provides a basic introduction to RNA-seq data analysis with some hands-on tutorials. This workshop is intended for beginner or intermediate users with some or no familiarity with RNA-seq data analysis.
+Topics covered in this workshop includes:
+Day 1 :
+ Introduction to RNA-seq (basic concepts) RNA-seq workflow Quality control Sequence Alignment  Day 2:
+ Gene Quantification Data Pre-processing Differential expression analysis  General Information  Workshop: RNA-Seq data analysis</description>
+    </item>
+    
     <item>
       <title>Workshop - Intro to R &amp; ggplot2</title>
       <link>https://iigb-bioinfocore.github.io/blog/2022/12/08/workshop-intro-to-r-ggplot2/</link>
