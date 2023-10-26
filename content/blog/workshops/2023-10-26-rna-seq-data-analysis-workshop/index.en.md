@@ -7,10 +7,10 @@ categories:
   - workshops
 tags:
   - workshops
-banner: "img/banners/Workshop-RNA-seq-flyer.jpg"
+banner: "img/banners/Workshop-RNA-seq-flyer.jpeg"
 ---
 
-![RNA-Seq Data Analysis](images/Workshop-RNA-seq-flyer.jpg)
+![RNA-Seq Data Analysis](images/Workshop-RNA-seq-flyer.jpeg)
 
 The Bioinformatics Core is hosting a two-day workshop on RNA-Seq data analysis.
 
